@@ -2,5 +2,5 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>[Active Directory Home Lab](https://github.com/deso2/Active-Directory-lab)</b>
-
+- <b>[Soc Home Lab](https://github.com/deso2/SOC-Home-Lab)</b>
 
