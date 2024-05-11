@@ -5,5 +5,5 @@
 - [Soc Home Lab](https://github.com/deso2/SOC-Home-Lab)
 
 <h2>Other Projects</h2>
-- <b>[Chaning Thermal Paste on a Mac Pro]</b>
 
+- [Changing Thermal Paste on a Mac Pro](https://github.com/deso2/Mac_New_Paste/blob/main/README.md)
